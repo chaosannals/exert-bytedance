@@ -1,0 +1,8 @@
+{
+    "deviceOrientation": "portrait",
+    "ttNavigateToMiniGameAppIdList": [],
+    "liveConfig": {
+        "enableEnterGuideModal": false,
+        "floatComponentPosY": 22
+    }
+}

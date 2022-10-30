@@ -12,6 +12,8 @@ async function main() {
     let location = await getLocation();
 }
 
+console.log('globalThis', globalThis.tt);
+
 main();
 
 let params = {
